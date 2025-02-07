@@ -22,9 +22,6 @@ fs = gridfs.GridFS(uncode_backup_db)
 # Create folder
 os.getcwd()
 
-# Ruta de la base de datos
-path = 'D:\\Uniandes\\Semana4\\MonkeyWeb\\cypress\\e2e'
-
 #Crear carpeta en mi pc
 s = 'Learning-Analytics'
 
